@@ -1,0 +1,1536 @@
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
+Axion Prime Urban Redevelopment Log
+=================================
+
+Year 2147. Sector A-19.  
+The city of Axion Prime stretches endlessly in a perfect grid, yet chaos hides beneath its symmetry.
+Each building stands as a data point — coordinates etched in steel, costs buried in contracts.
+
+This document is a synthetic large text file intended for testing repositories, file handling,
+and version control systems.
+
+--------------------------------------------------
+SECTION 1: SYSTEM INITIALIZATION
+--------------------------------------------------
+
+Initializing zoning optimizer...
+Loading building coordinates...
+Validating axis-aligned constraints...
+Polygon generation module online.
+Staircase refinement enabled.
+Negative-cost building detection active.
+
+--------------------------------------------------
+SECTION 2: SAMPLE DATA STREAM
+--------------------------------------------------
+
+BuildingID: 0001 | X: 102.45 | Y: 876.22 | Cost: -12.50
+BuildingID: 0002 | X: 450.18 | Y: 123.90 | Cost:  34.00
+BuildingID: 0003 | X: 999.01 | Y: 456.77 | Cost: -98.10
+BuildingID: 0004 | X: 321.88 | Y: 654.31 | Cost:  12.75
+BuildingID: 0005 | X: 782.44 | Y: 901.66 | Cost: -44.20
+
+--------------------------------------------------
+SECTION 3: DIAGNOSTIC TEXT (FILLER)
+--------------------------------------------------
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+This sentence exists to increase file size and simulate realistic log output.
+
+--------------------------------------------------
+SECTION 4: REPEATED BLOCK
+--------------------------------------------------
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+[BEGIN BLOCK]
+Urban optimization is not about rectangles alone.
+A polygon may bend, step, and adapt.
+Perimeter may grow to reduce internal cost.
+Excluding a high-cost building can be optimal.
+Greedy heuristics are only the beginning.
+Clustering reveals hidden structure.
+Refinement converts boxes into intelligence.
+[END BLOCK]
+
+--------------------------------------------------
+SECTION 5: RANDOM NOTES
+--------------------------------------------------
+
+NOTE 001: Rectangles are fast but naive.
+NOTE 002: Staircase polygons reduce wasted area.
+NOTE 003: Axis-aligned constraints simplify geometry.
+NOTE 004: Optimal does not mean minimal perimeter.
+NOTE 005: Sometimes you must grow to shrink.
+
+--------------------------------------------------
+SECTION 6: END OF FILE
+--------------------------------------------------
+
+EOF
